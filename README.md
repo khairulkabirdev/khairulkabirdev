@@ -2,7 +2,7 @@
 
 I'm Khairul Kabir, a passionate learner and backend developer in the making! 🌟
 
-- 🌱 I’m currently working at ICT Content, a small company, while pursuing a diploma in CST at [PPEI](https://ppei.edu.bd).
+- 🌱 I’m currently working at ICT Content, a small company, while pursuing a diploma in CST at [PPMI](https://ppmi.edu.bd/).
 - 👨‍💻 Learning backend development with PHP and diving into the exciting world of Java.
 - 📚 Fluent in English and Hindi, and I'm on my way to mastering Japanese!
 - 💬 Ask me about backend development, languages, or anything you're curious about!
